@@ -63,6 +63,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NavarroZealjan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NavarroZealjan/NavarroZealjan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NavarroZealjan/NavarroZealjan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NavarroZealjan/NavarroZealjan/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
  Connect With Me
@@ -80,11 +89,5 @@
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NavarroZealjan/NavarroZealjan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NavarroZealjan/NavarroZealjan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NavarroZealjan/NavarroZealjan/output/pacman-contribution-graph.svg">
-</picture>
 
 
